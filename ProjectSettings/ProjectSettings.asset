@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: 4da969d8190eee043a156b26513550b5
+  productGUID: 061aecbb1ff13dc48a1a181ea9c0299c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -241,7 +241,7 @@ PlayerSettings:
   iOSRequireARKit: 0
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
-  clonedFromGUID: ab17d3c9284b34d479a69ebd624307c4
+  clonedFromGUID: d37648041efdcba4bba9fafb892108b0
   templatePackageId: 
   templateDefaultScene: 
   AndroidTargetArchitectures: 1
@@ -543,7 +543,7 @@ PlayerSettings:
   ps5BGMPath: 
   ps5ShareOverlayImagePath: 
   ps5NPConfigZipPath: 
-  ps5Passcode: F69AzBlax3CF3EDNhm3soLBPh71Yexui
+  ps5Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
   ps5UseResolutionFallback: 0
   ps5UseAudio3dBackend: 0
   ps5ScriptOptimizationLevel: 2
